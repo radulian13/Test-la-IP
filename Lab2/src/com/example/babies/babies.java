@@ -68,4 +68,7 @@ public class babies {
                 "\nNo.Poops:"+getNumPoops()+
                 "\nGreutate:"+getWeight());
     }
+    public void poop(){
+        numPoops++;
+    }
 }
